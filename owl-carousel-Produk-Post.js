@@ -1,0 +1,13 @@
+$(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
+        responsive:{
+            0:{items:1},
+        },
+        pagination:true,
+        navigation:true,
+        margin:0,
+        loop:true,
+        autoplay:true,
+        autoplayTimeout:5000,
+    });
+});
