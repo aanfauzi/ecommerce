@@ -1,6 +1,6 @@
 /*-----------------------------------------------
 
-Name    : AFC-Carousel Js
+Name    : Related Post Olshop
 Version : 1.0
 By      : Aan Fauzi
 Github  : https://github.com/aanfauzicoding/Afc-Carousel
