@@ -2,7 +2,7 @@
 
 Name    : Related Post Olshop
 Version : 1.0
-Creatir : Aan Fauzi
+Made by : Aan Fauzi
 Github  : https://github.com/aanfauzi/ecommerce/blob/main/LICENSE
 
 ----------------------------------------------- */
